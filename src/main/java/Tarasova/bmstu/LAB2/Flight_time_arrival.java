@@ -11,7 +11,7 @@ public class Flight_time_arrival {
     private final static String FLIGHTS_CSV_PATH = "664600583_T_ONTIME_sample.csv";
     private final static String AIRPORT_CSV_PATH = "L_AIRPORT_ID.csv";
 
-    public static void main(String[] args) throws Exception {
+    public static void main(@org.jetbrains.annotations.NotNull String[] args) throws Exception {
         if (args.length != 1){
             System.err.println("Problem with the time arrival of planes\nUsage: <output path>");
             System.exit(-1);

@@ -33,7 +33,7 @@ public class Shared_key implements WritableComparable<Shared_key>  {
         airport_ID = Line.substring(0, sizeLine - 1);
     }
     //Функция получения ключа
-    public String getAirportID(){  
+    public String getAirportID(){   
         return airport_ID;
     }
     //Функция получения флага

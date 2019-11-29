@@ -8,6 +8,7 @@ import org.apache.hadoop.io.WritableComparable;
 public class Shared_key implements WritableComparable<Shared_key>  {
     private String airport_ID;
     private int flag;
+    
     // Определяем ключ в начале
     public Shared_key(){
         this.airport_ID = "null";

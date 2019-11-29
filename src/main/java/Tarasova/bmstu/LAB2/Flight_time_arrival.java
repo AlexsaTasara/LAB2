@@ -5,7 +5,7 @@ import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.MultipleInputs;
 import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
-import org.jetbrains.annotations.NotNull;
+
 public class Flight_time_arrival {
     //Подключаем документы
     private final static String FLIGHTS_CSV_PATH = "664600583_T_ONTIME_sample.csv";

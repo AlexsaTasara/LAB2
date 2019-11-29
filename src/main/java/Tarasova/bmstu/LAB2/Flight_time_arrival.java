@@ -13,7 +13,7 @@ public class Flight_time_arrival {
 
     public static void main(String[] args) throws Exception {
         if (args.length != 1){
-            System.err.println("Probltm with the time arrival of planes\nUsage: <output path>");
+            System.err.println("Problem with the time arrival of planes\nUsage: <output path>");
             System.exit(-1);
         }
         Job work = Job.getInstance();

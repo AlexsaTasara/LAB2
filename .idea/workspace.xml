@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30f7e5a7-95ad-44c3-931c-1ef1c40205e3" name="Default Changelist" comment="" />
+    <list default="true" id="30f7e5a7-95ad-44c3-931c-1ef1c40205e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tarasova/bmstu/LAB2/Flight_time_arrival.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tarasova/bmstu/LAB2/Flight_time_arrival.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -137,28 +137,4 @@
     <MESSAGE value="Result" />
     <option name="LAST_COMMIT_MESSAGE" value="Result" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Tarasova/bmstu/LAB2/Flight_time_arrival.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Tarasova/bmstu/LAB2/Flight_time_arrival.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Tarasova/bmstu/LAB2/Flight_time_arrival.java</url>
-          <line>13</line>
-          <properties class="Tarasova.bmstu.LAB2.Flight_time_arrival" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
 </project>

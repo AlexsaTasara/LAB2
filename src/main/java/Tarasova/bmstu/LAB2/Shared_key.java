@@ -48,7 +48,7 @@ public class Shared_key implements WritableComparable<Shared_key>  {
     public int compareTo(Shared_key other_key){
         //Сравнение по строкам ID
         int airport_ID_compare = airport_ID.compareTo(other_key.getAirportID());
-        int otherFlag = other_key.getFlag(); 
+        int otherFlag = other_key.getFlag();
         if (airport_ID_compare == 0){
             return flag - otherFlag;
         }

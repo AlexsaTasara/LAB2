@@ -4,8 +4,8 @@ import java.io.DataOutput;
 import java.io.IOException;
 import org.apache.hadoop.io.WritableComparable;
 
-//Ключ для reduce side join (0 - аэропорт, 1 - перелет)
-public class Shared_key implements WritableComparable<Shared_key> {
+//Ключ для reduce side join (0 - аэропорт, 1 - перелет  )
+public class Shared_key implements WritableComparable<Shared_key>  {
     private String airport_ID;
     private int flag;
     // Определяем ключ в начале
@@ -33,7 +33,7 @@ public class Shared_key implements WritableComparable<Shared_key> {
         airport_ID = Line.substring(0, sizeLine - 1);
     }
     //Функция получения ключа
-    public String getAirportID(){
+    public String getAirportID(){  
         return airport_ID;
     }
     //Функция получения флага

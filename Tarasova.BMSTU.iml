@@ -10,6 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="javafx" level="application" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-client:2.9.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-common:2.9.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:11.0.2" level="project" />
@@ -90,6 +91,6 @@
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-xc:1.9.13" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-jobclient:2.9.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-annotations:2.9.1" level="project" />
-    <orderEntry type="library" name="javafx" level="application" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:18.0.0" level="project" />
   </component>
 </module>

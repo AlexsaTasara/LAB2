@@ -31,6 +31,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Flight_time_arrival" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tarasova.bmstu.LAB2.Flight_time_arrival" />
+      <module name="Tarasova.BMSTU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tarasova.bmstu.LAB2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Flight_time_arrival" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>

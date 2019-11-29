@@ -31,9 +31,9 @@ public class Shared_key implements WritableComparable<Shared_key>  {
         flag = Line.charAt(sizeLine - 1);
         //ID
         airport_ID = Line.substring(0, sizeLine - 1);
-    }
+    } 
     //Функция получения ключа
-    public String getAirportID(){   
+    public String getAirportID(){
         return airport_ID;
     }
     //Функция получения флага

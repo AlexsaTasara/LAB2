@@ -1,9 +1,9 @@
 package Tarasova.bmstu.LAB2;
 import javafx.util.Pair;
 
-public class Airports_CSV_writable{ 
+public class Airports_CSV_writable{
     private Pair<String, String> airportCSVPair;
-    public Airports_CSV_writable(String airportCSV){
+    public Airports_CSV_writable(String airportCSV) {
         int comma;  //Индекс запятой
         String  airportsName, airportID;
         if(!airportCSV.contains("Description")){  //Если есть описание тогда

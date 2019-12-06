@@ -1,0 +1,9 @@
+Tarasova/bmstu/LAB2/Flight_time_arrival.class
+Tarasova/bmstu/LAB2/Airports_CSV_mapper.class
+Tarasova/bmstu/LAB2/Flight_time_arrival_reducer.class
+Tarasova/bmstu/LAB2/Flight_arrival_partitioner.class
+Tarasova/bmstu/LAB2/Shared_key.class
+Tarasova/bmstu/LAB2/Flights_CSV_writable.class
+Tarasova/bmstu/LAB2/Airports_CSV_writable.class
+Tarasova/bmstu/LAB2/Flights_CSV_mapper.class
+Tarasova/bmstu/LAB2/Flight_arrival_comparator.class

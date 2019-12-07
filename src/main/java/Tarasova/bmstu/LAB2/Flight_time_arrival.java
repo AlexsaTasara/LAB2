@@ -17,7 +17,7 @@ public class Flight_time_arrival {
             System.err.println("Problem with the time arrival of planes\nUsage: <output path>");
             System.exit(-1);
         }
-        Job work = Job.getInstance(); 
+        Job work = Job.getInstance();
         work.setJarByClass(Flight_time_arrival.class); //Определяем класс для работы
         work.setJobName("Reduce side join"); //Определяем имя для работы
         //Добавляем пути к документам
